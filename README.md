@@ -1,2 +1,1 @@
-# datascienceproject
-MLOps Bootcamp
+# Data Science Project
