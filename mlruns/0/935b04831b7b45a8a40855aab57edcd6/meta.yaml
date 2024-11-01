@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sohelshaikh/Development/ai/MLOps_Bootcamp/datascienceproject/mlruns/0/935b04831b7b45a8a40855aab57edcd6/artifacts
+end_time: 1730467893426
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 935b04831b7b45a8a40855aab57edcd6
+run_name: skittish-grouse-817
+run_uuid: 935b04831b7b45a8a40855aab57edcd6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730467892236
+status: 3
+tags: []
+user_id: sohelshaikh
