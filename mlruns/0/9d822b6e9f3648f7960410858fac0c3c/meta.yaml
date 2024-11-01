@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sohelshaikh/Development/ai/MLOps_Bootcamp/datascienceproject/mlruns/0/9d822b6e9f3648f7960410858fac0c3c/artifacts
+end_time: 1730466987607
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9d822b6e9f3648f7960410858fac0c3c
+run_name: nebulous-gnat-189
+run_uuid: 9d822b6e9f3648f7960410858fac0c3c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730466986463
+status: 3
+tags: []
+user_id: sohelshaikh

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sohelshaikh/Development/ai/MLOps_Bootcamp/datascienceproject/mlruns/0/5cd3459cce1d42659de5c78875201d04/artifacts
+end_time: 1730466235286
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5cd3459cce1d42659de5c78875201d04
+run_name: magnificent-kite-33
+run_uuid: 5cd3459cce1d42659de5c78875201d04
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730466233631
+status: 3
+tags: []
+user_id: sohelshaikh
